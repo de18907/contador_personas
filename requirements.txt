@@ -1,0 +1,12 @@
+flask
+secure_filename
+werkzeug
+imutils
+urllib
+numpy
+argparse
+imutils
+time
+dlib
+cv2
+os
