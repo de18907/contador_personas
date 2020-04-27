@@ -10,3 +10,4 @@ time
 dlib
 cv2
 os
+gunicorn
