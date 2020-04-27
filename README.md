@@ -14,3 +14,4 @@
 <h1>Luego de tener instalado python, el entorno virtual y las librerias necesarias procedemos a correr el proyecto:</h1>
 <p><h3>Entramos a la carpeta:</h3>cd flask</p>
 <p><h3>Ejecutamos el programa:</h3>python index.py</p>
+<p><h2>En tu navegador abre y escribe:</h2>http://localhost:5000/</p>
