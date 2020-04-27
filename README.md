@@ -11,6 +11,6 @@
 <p><h3>time:</h3>pip install timesk</p>
 <p><h3>dlib:</h3>pip install dlib</p>
 <p><h3>cv2:</h3>pip install opencv-python</p>
-<h1>Luego de tener el entorno virtual y instalado las librerias necesarias procedemos a correr el proyecto:</h1>
+<h1>Luego de tener instalado python, el entorno virtual y las librerias necesarias procedemos a correr el proyecto:</h1>
 <p><h3>Entramos a la carpeta:</h3>cd flask</p>
 <p><h3>Ejecutamos el programa:</h3>python index.py</p>
